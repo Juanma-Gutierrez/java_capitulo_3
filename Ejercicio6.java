@@ -13,11 +13,11 @@ public class Ejercicio6 {
         Scanner sc = new Scanner(System.in);
         float base;
         float altura;
-        System.out.println("Introduce base: ");
+        System.out.print("Introduce base: ");
         base = sc.nextInt();
-        System.out.println("Introduce altura: ");
+        System.out.print("Introduce altura: ");
         altura = sc.nextInt();
-        System.out.println(
+        System.out.print(
                 ("El triángulo de base " + base + " y altura " + altura + " tiene un área de "
                         + String.format("%.2f", (base * altura / 2))));
         sc.close();

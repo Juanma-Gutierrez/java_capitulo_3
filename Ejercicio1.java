@@ -13,11 +13,11 @@ public class Ejercicio1 {
         Scanner sc = new Scanner(System.in);
         int num1;
         int num2;
-        System.out.println("Introduce el primer número:");
+        System.out.print("Introduce el primer número: ");
         num1 = sc.nextInt();
-        System.out.println("Introduce el segundo número:");
+        System.out.print("Introduce el segundo número: ");
         num2 = sc.nextInt();
-        System.out.println(num1 + " + " + num2 + " = " + (num1 + num2));
+        System.out.print(num1 + " + " + num2 + " = " + (num1 + num2));
         sc.close();
     }
 }

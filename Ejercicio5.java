@@ -13,11 +13,11 @@ public class Ejercicio5 {
         Scanner sc = new Scanner(System.in);
         int base;
         int altura;
-        System.out.println("Introduce base: ");
+        System.out.print("Introduce base: ");
         base = sc.nextInt();
-        System.out.println("Introduce altura: ");
+        System.out.print("Introduce altura: ");
         altura = sc.nextInt();
-        System.out.println(
+        System.out.print(
                 ("El rectángulo de base " + base + " y altura " + altura + " tiene un área de " + (base * altura)));
         sc.close();
     }

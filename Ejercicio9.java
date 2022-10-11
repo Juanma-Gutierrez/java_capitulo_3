@@ -13,9 +13,9 @@ public class Ejercicio9 {
         Scanner sc = new Scanner(System.in);
         float radio;
         float altura;
-        System.out.println("Introduce el radio del cono:");
+        System.out.print("Introduce el radio del cono: ");
         radio = sc.nextFloat();
-        System.out.println("Introduce la altura del cono:");
+        System.out.print("Introduce la altura del cono: ");
         altura = sc.nextFloat();
         double res = (1.0 / 3.0) * Math.PI * Math.pow(radio, 2) * altura;
         System.out.println("El volúmen del cono es de " + String.format("%.2f", res));

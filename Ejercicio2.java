@@ -12,9 +12,9 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float euros;
-        System.out.println("Introduce la cantidad de euros:");
+        System.out.print("Introduce la cantidad de euros: ");
         euros = sc.nextFloat();
-        System.out.println(euros + " euros equivalen a " + (int)(euros * 166.386) + " pesetas");
+        System.out.print(euros + " euros equivalen a " + (int)(euros * 166.386) + " pesetas");
         sc.close();
     }
 }

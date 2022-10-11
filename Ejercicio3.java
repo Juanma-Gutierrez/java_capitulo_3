@@ -13,9 +13,9 @@ public class Ejercicio3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int pesetas;
-        System.out.println("Introduce la cantidad de pesetas:");
+        System.out.print("Introduce la cantidad de pesetas: ");
         pesetas = sc.nextInt();
-        System.out.println(pesetas + " pesetas equivalen a " + String.format("%.2f",(pesetas / 166.386)) + " euros");
+        System.out.print(pesetas + " pesetas equivalen a " + String.format("%.2f",(pesetas / 166.386)) + " euros");
         sc.close();
     }
 }

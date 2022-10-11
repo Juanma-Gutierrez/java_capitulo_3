@@ -12,9 +12,9 @@ public class Ejercicio7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float base;
-        System.out.println("Introduce la base de la factura:");
+        System.out.print("Introduce la base de la factura: ");
         base = sc.nextFloat();
-        System.out.println("Con una base de "
+        System.out.print("Con una base de "
                 + String.format("%.2f", base) + " euros y un IVA del 21% ("
                 + String.format("%.2f", (base * .21))
                 + " euros) hace un total factura de: "

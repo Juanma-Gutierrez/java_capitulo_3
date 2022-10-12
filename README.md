@@ -1,5 +1,9 @@
 # java_capitulo_3
 
+Soluciones a los ejercicios del libro **Aprende Java con ejercicios** de Luis José Sánchez (*Edición 2019*).
+
+Este libro está a la venta en https://leanpub.com/aprendejava
+
 ### Ejercicio 1
 
 Realiza un programa que pida dos números y que luego muestre el resultado de su multiplicación.

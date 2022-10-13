@@ -69,8 +69,8 @@ Escribe un programa que calcule el salario semanal de un empleado en base a las 
 
 ### Ejercicio 9
 
-Escribe un programa que calcule el volumen de un cono según la fórmula V = 1/3 πr2h
 
+Escribe un programa que calcule el volumen de un cono según la fórmula V = 1/3 πr²h
     Introduce el radio del cono: 10
     Introduce la altura del cono: 5
     El volúmen del cono es de 523,60
@@ -104,3 +104,4 @@ Introduce la nota del primer examen: 8
 ¿Qué nota quieres sacar en el trimestre? 7
 Para tener un 7 en el trimestre necesitas sacar un 6.33 en el segundo examen.
 ```
+

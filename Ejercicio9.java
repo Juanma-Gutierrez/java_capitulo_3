@@ -2,10 +2,15 @@ import java.util.Scanner;
 
 /**
  * Exercise: 9
- * 
+ *
  * @version: 11/10/2022 09:12
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
+ */
+
+/*
+ * Escribe un programa que calcule el volumen de un cono según la fórmula V =
+ * 1/3 πr²h
  */
 
 public class Ejercicio9 {

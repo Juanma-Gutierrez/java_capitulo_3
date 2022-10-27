@@ -2,10 +2,15 @@ import java.util.Scanner;
 
 /**
  * Exercise: 1
- * 
+ *
  * @version: 10/10/2022 09:39
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
+ */
+
+/*
+ * Realiza un programa que pida dos números y que luego muestre el resultado de
+ * su multiplicación.
  */
 
 public class Ejercicio1 {

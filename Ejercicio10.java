@@ -2,10 +2,14 @@ import java.util.Scanner;
 
 /**
  * Exercise: 10
- * 
+ *
  * @version: 11/10/2022 10:47
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
+ */
+
+/*
+ * Realiza un conversor de Mb a Kb.
  */
 
 public class Ejercicio10 {

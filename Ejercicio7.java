@@ -2,10 +2,15 @@ import java.util.Scanner;
 
 /**
  * Exercise: 7
- * 
+ *
  * @version: 11/10/2022 08:46
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
+ */
+
+/*
+ * Escribe un programa que calcule el total de una factura a partir de la base
+ * imponible.
  */
 
 public class Ejercicio7 {

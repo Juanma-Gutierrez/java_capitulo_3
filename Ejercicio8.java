@@ -2,10 +2,15 @@ import java.util.Scanner;
 
 /**
  * Exercise: 8
- * 
+ *
  * @version: 11/10/2022 08:55
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
+ */
+
+/*
+ * Escribe un programa que calcule el salario semanal de un empleado en base a
+ * las horas trabajadas, a razón de 12 euros la hora.
  */
 
 public class Ejercicio8 {

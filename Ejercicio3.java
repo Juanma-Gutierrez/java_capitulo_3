@@ -1,17 +1,17 @@
-import java.util.Scanner;
-
 /**
  * Exercise: 3
  *
- * @version: 11/10/2022 08:23
+ * @version: 11/10/2022
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
  */
 
 /*
- * Realiza un conversor de pesetas a euros. La cantidad de pesetas que se quiere
- * convertir debe ser introducida por teclado.
- */
+* Realiza un conversor de pesetas a euros. La cantidad de pesetas que se quiere
+* convertir debe ser introducida por teclado.
+*/
+
+import java.util.Scanner;
 
 public class Ejercicio3 {
     public static void main(String[] args) {

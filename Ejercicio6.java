@@ -1,16 +1,16 @@
-import java.util.Scanner;
-
 /**
  * Exercise: 6
  *
- * @version: 11/10/2022 08:35
+ * @version: 11/10/2022
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
  */
 
 /*
- * Escribe un programa que calcule el área de un triángulo.
- */
+* Escribe un programa que calcule el área de un triángulo.
+*/
+
+import java.util.Scanner;
 
 public class Ejercicio6 {
     public static void main(String[] args) {

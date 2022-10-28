@@ -1,17 +1,17 @@
-import java.util.Scanner;
-
 /**
  * Exercise: 4
  *
- * @version: 11/10/2022 08:29
+ * @version: 11/10/2022
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
  */
 
 /*
- * Escribe un programa que sume, reste, multiplique y divida dos números
- * introducidos por teclado.
- */
+* Escribe un programa que sume, reste, multiplique y divida dos números
+* introducidos por teclado.
+*/
+
+import java.util.Scanner;
 
 public class Ejercicio4 {
     public static void main(String[] args) {

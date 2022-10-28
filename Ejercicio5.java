@@ -1,9 +1,7 @@
-import java.util.Scanner;
-
 /**
  * Exercise: 5
  *
- * @version: 11/10/2022 08:35
+ * @version: 11/10/2022
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
  */
@@ -11,6 +9,8 @@ import java.util.Scanner;
 /*
  * Escribe un programa que calcule el área de un rectángulo.
  */
+
+import java.util.Scanner;
 
 public class Ejercicio5 {
     public static void main(String[] args) {

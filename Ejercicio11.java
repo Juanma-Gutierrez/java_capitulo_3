@@ -1,16 +1,16 @@
-import java.util.Scanner;
-
 /**
  * Exercise: 11
  *
- * @version: 11/10/2022 11:00
+ * @version: 11/10/2022
  * @author: Juan Manuel Gutiérrez
  *          https://github.com/Juanma-Gutierrez
  */
 
 /*
- * Realiza un conversor de Kb a Mb.
- */
+* Realiza un conversor de Kb a Mb.
+*/
+
+import java.util.Scanner;
 
 public class Ejercicio11 {
     public static void main(String[] args) {

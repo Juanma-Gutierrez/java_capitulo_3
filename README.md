@@ -4,6 +4,21 @@ Soluciones a los ejercicios del libro **Aprende Java con ejercicios** de Luis Jo
 
 Este libro está a la venta en https://leanpub.com/aprendejava
 
+## Listado de ejercicios
+
+[01 Ejercicio 1](#ejercicio-1)
+[02 Ejercicio 2](#ejercicio-2)
+[03 Ejercicio 3](#ejercicio-3)
+[04 Ejercicio 4](#ejercicio-4)
+[05 Ejercicio 5](#ejercicio-5)
+[06 Ejercicio 6](#ejercicio-6)
+[07 Ejercicio 7](#ejercicio-7)
+[08 Ejercicio 8](#ejercicio-8)
+[09 Ejercicio 9](#ejercicio-9)
+[10 Ejercicio 10](#ejercicio-10)
+[11 Ejercicio 11](#ejercicio-11)
+[12 Ejercicio 12](#ejercicio-12)
+
 ### Ejercicio 1
 
 Realiza un programa que pida dos números y que luego muestre el resultado de su multiplicación.

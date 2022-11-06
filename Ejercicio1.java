@@ -14,14 +14,23 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        // Var declarations
         int num1;
         int num2;
+
+        // Scanner class
+        Scanner sc = new Scanner(System.in);
+
+        // Input data
         System.out.print("Introduce el primer número: ");
         num1 = sc.nextInt();
         System.out.print("Introduce el segundo número: ");
         num2 = sc.nextInt();
+
+        // Output results
         System.out.print(num1 + " + " + num2 + " = " + (num1 + num2));
+
+        // Close scanner
         sc.close();
     }
 }

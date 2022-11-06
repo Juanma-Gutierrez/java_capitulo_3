@@ -14,12 +14,21 @@ import java.util.Scanner;
 
 public class Ejercicio11 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        // Var declarations
         double num;
+
+        // Scanner class
+        Scanner sc = new Scanner(System.in);
+
+        // Input data
         System.out.print("Introduce la cantidad en Kb: ");
         num = sc.nextDouble();
+
+        // Output results
         System.out
                 .print(String.format("%.0f", (num)) + " Kb equivalen a " + String.format("%.2f", (num / 1024)) + " Mb");
+
+        // Close scanner
         sc.close();
 
     }

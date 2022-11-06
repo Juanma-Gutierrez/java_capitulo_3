@@ -15,13 +15,22 @@ import java.util.Scanner;
 
 public class Ejercicio8 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        // Var declarations
         float horas;
+
+        // Scanner class
+        Scanner sc = new Scanner(System.in);
+
+        // Input data
         System.out.print("Introduce las horas trabajadas: ");
         horas = sc.nextFloat();
+
+        // Output data
         System.out.println(
                 "El salario para " + horas + " horas trabajadas sería de " + String.format("%.2f", horas * 12)
                         + " euros");
+
+        // Close scanner
         sc.close();
     }
 }

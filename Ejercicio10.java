@@ -14,11 +14,20 @@ import java.util.Scanner;
 
 public class Ejercicio10 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        // Var declarations
         double num;
+
+        // Scanner class
+        Scanner sc = new Scanner(System.in);
+
+        // Input data
         System.out.print("Introduce la cantidad en Mb: ");
         num = sc.nextDouble();
+
+        // Output data
         System.out.print(num + " Mb equivalen a " + (num * 1024) + " Kb");
+
+        // Close scanner
         sc.close();
 
     }
